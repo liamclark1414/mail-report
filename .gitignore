@@ -1,0 +1,7 @@
+# Personal data: never commit
+reports/
+*.mbox
+
+# Python clutter
+__pycache__/
+.venv/
